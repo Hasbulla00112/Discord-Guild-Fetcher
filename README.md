@@ -21,7 +21,7 @@ GuildFetcher is a Python script designed to fetch and save guild (server) IDs fr
 ## Installation
 
 - Download - [GuildFetcher](https://github.com/Hasbulla00112/Discord-Guild-Fetcher/releases/download/v1.0.1/GuildFetcher.zip)
-- Extract the files and run the script
+- Extract the files
 
 ## Usage
 
