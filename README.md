@@ -25,7 +25,7 @@ GuildFetcher is a Python script designed to fetch and save guild (server) IDs fr
 
 ## Usage
 
-1. Place your configuration file (`config.json`), proxy file (`proxy.txt`), and token file (`tokens.txt`) in the `input` folder.
+1. Configure your input files: Configuration file (`config.json`), proxy file (`proxy.txt`), and token file (`tokens.txt`) in the `input` folder.
 2. Open start.bat
 3. Follow the on-screen instructions to input the number of threads you want to use.
 
